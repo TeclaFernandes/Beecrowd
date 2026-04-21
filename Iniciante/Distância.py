@@ -1,0 +1,8 @@
+#DISTANCIA:
+D = int(input())
+
+#CALCULANDO O TEMPO ESPERADO:
+T = D*2
+
+#IMPRIMINDO O TEMPO ESPERADO:
+print(T, 'minutos')
